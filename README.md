@@ -1,3 +1,6 @@
+### Feel free to contact me anytime!👍
+#
+
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAGUYA-1137&show_icons=true&theme=vue-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAGUYA-1137&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
