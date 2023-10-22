@@ -7,13 +7,20 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KAGUYA-1137&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaguya-1137&label=Profile%20views&color=0e75b6&style=flat" alt="kaguya-1137" /> </p>
+
+# Social
+
+<p align="left">
+<a href="https://twitter.com/KAGUYA-1137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UConpgs9msJLlkMXtjdTwyVQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hrs_kaguya" height="30" width="40" /></a>
+<a href="https://discord.gg/yneJ3HBFp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yneJ3HBFp8" height="30" width="40" /></a>
+</p>
+
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,js,mysql,github,vscode,php,aws,python,illustrator,photoshop,blender" /> <br /><br />
-
-  ※Another skill and tools
-  Linux, Virtual Box
+<img src="https://skillicons.dev/icons?i=html,js,mysql,github,vscode,php,aws,python,illustrator,photoshop,blender,linux,git" /> <br /><br />
   
 # NOW TRAINING
 
