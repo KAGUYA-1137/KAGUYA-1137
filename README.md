@@ -20,7 +20,7 @@
 
 # My Skill (Programming Languages, Frameworks and Tools)
 
-<img src="https://skillicons.dev/icons?i=html,js,mysql,github,vscode,php,aws,python,illustrator,photoshop,blender,linux,git" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,github,vscode,php,aws,illustrator,photoshop,blender,linux,git" /> <br /><br />
   
 # NOW TRAINING
 
