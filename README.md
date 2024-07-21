@@ -24,7 +24,7 @@
   
 # NOW TRAINING
 
-<img src="https://skillicons.dev/icons?i=c,java" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
