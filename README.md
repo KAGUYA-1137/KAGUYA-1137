@@ -1,4 +1,4 @@
-### Feel free to contact me anytime!👍
+### いつでもお気軽にご連絡ください！👍
 #
 
 ![Foo_name's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAGUYA-1137&show_icons=true&theme=vue-dark)
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaguya-1137&label=Profile%20views&color=0e75b6&style=flat" alt="kaguya-1137" /> </p>
 
-# Social
+# ソーシャル
 
 <p align="left">
 <a href="https://x.com/KAGUYA_1137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="[Foo]" height="30" width="40" /></a>
@@ -18,13 +18,9 @@
 </p>
 
 
-# My Skill (Programming Languages, Frameworks and Tools)
+# スキル (プログラミング言語, フレームワークとツール)
 
-<img src="https://skillicons.dev/icons?i=github,aws,illustrator,photoshop,linux,git" /> <br /><br />
-  
-# NOW TRAINING
-
-<img src="https://skillicons.dev/icons?i=c,visualstudio" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,visualstudio,github,aws,illustrator,photoshop,linux,git" /> <br /><br />
 
 
 <!-- --------------------------------- :) ---------------------------------- -->
