@@ -5,7 +5,7 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAGUYA-1137&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KAGUYA-1137&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KAGUYA-1137)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaguya-1137&label=Profile%20views&color=0e75b6&style=flat" alt="kaguya-1137" /> </p>
 
